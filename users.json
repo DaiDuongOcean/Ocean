@@ -5,12 +5,25 @@
             "password": "123456"
         },
         {
+<<<<<<< HEAD
             "username": "admin00",
             "password": "1234"
         },
         {
             "username": "add",
             "password": "123"
+=======
+            "username": "admin1",
+            "password": "123456"
+        },
+        {
+            "username": "admin1000",
+            "password": "123456"
+        },
+        {
+            "username": "admin2000",
+            "password": "123456"
+>>>>>>> 5706fffdcc5a39e5fc48f82136b2af0937ac2ea6
         }
     ]
 }

@@ -45,7 +45,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV='D:\PythonNC_TX1'
+=======
+VIRTUAL_ENV='D:\pythonProject1'
+>>>>>>> 5706fffdcc5a39e5fc48f82136b2af0937ac2ea6
 if ([ "$OSTYPE" = "cygwin" ] || [ "$OSTYPE" = "msys" ]) && $(command -v cygpath &> /dev/null) ; then
     VIRTUAL_ENV=$(cygpath -u "$VIRTUAL_ENV")
 fi

@@ -58,7 +58,11 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
+<<<<<<< HEAD
 set -gx VIRTUAL_ENV 'D:\PythonNC_TX1'
+=======
+set -gx VIRTUAL_ENV 'D:\pythonProject1'
+>>>>>>> 5706fffdcc5a39e5fc48f82136b2af0937ac2ea6
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | head -c 1) -lt 3

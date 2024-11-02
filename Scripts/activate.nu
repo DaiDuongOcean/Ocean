@@ -32,7 +32,11 @@ export-env {
       }
     }
 
+<<<<<<< HEAD
     let virtual_env = 'D:\PythonNC_TX1'
+=======
+    let virtual_env = 'D:\pythonProject1'
+>>>>>>> 5706fffdcc5a39e5fc48f82136b2af0937ac2ea6
     let bin = 'Scripts'
 
     let is_windows = ($nu.os-info.family) == 'windows'
