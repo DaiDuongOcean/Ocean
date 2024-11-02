@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+@set "VIRTUAL_ENV=D:\PythonNC_TX1"
+=======
 @set "VIRTUAL_ENV=D:\pythonProject1"
+>>>>>>> 5706fffdcc5a39e5fc48f82136b2af0937ac2ea6
 
 @set "VIRTUAL_ENV_PROMPT="
 @if NOT DEFINED VIRTUAL_ENV_PROMPT (
