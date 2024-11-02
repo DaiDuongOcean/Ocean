@@ -8,6 +8,10 @@
 =======
     <option name="sdkName" value="Python 3.9 (pythonProject1) (2)" />
   </component>
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9" project-jdk-type="Python SDK" />
+=======
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (pythonProject1) (2)" project-jdk-type="Python SDK" />
 >>>>>>> 5706fffdcc5a39e5fc48f82136b2af0937ac2ea6
+>>>>>>> f4cafed9439e5984ed3133ed3e023a3a7bdcda19
 </project>
