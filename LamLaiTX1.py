@@ -33,7 +33,8 @@ def HienThi():
     lb1.delete(0, tk.END)
     for i in range(len(data)):
         temp = data[i]
-        lb1.insert(tk.END, str(temp))
+        lb1.insert(tk.END, str(temp)) # Đây là chỉ số kết thúc. tk.END
+                                               # đại diện cho vị trí cuối cùng của văn bản trong widget Text
 
 HienThi()
 
@@ -72,14 +73,5 @@ button2 = tk.Button(root, text="Sửa công việc", command=Sua)
 button2.grid(row=2, column=2, sticky="e", pady=10, padx=10)
 
 lb1.grid(row=3, column=0, columnspan=3, sticky="wne", pady=10, padx=10)
-
-
-
-
-
-
-
-
-
 root.mainloop()
 
